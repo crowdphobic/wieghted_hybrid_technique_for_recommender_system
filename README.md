@@ -1,4 +1,4 @@
-# wieghted_hybrid_technique_for_recommender_system
+# weighted_hybrid_technique_for_recommender_system
 
 A very basic recommender system to recommend movie to the user.
 I have CSV file so movies in which rating of movies and how many time movie is rated ig given.
