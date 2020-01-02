@@ -23,3 +23,6 @@ RUN THIS PROJECT:-
 ENVR:-
 1. Anaconda distribution with jupyter notebook.
 2. macos/linux/windows.
+
+
+SPECIAL THANKS:- Krish Naik.
